@@ -13,3 +13,8 @@ Responses of Agent.py (Acting As funny math teacher)
 
 ![Math Question with Persona](https://github.com/shubhamchau222/Investment-Analyst-Agent-using-phidata/blob/main/Images/persona%20as%20funny%20math%20teacher.PNG)
 
+## Recipes Examples
+
+
+
+![Healthy Recipe response with math teacher person](https://github.com/shubhamchau222/Investment-Analyst-Agent-using-phidata/blob/main/Images/Recipe%20Que%20with%20persona%20as%20math%20teacher.PNG)
